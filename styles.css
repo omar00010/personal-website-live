@@ -74,6 +74,16 @@ h1 {
   flex-shrink: 0;
 }
 
+.github-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.github-link svg {
+  flex-shrink: 0;
+}
+
 /* Projects Section */
 .projects {
   margin: 48px 0;
